@@ -1,16 +1,18 @@
-## Hi there 👋
+# Dr. Ankur Codes
 
-<!--
-**dr-ankurcodes/dr-ankurcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Next-gen FREE coding learning platform & community**  
+by **Dr. Ankur Sharma**
 
-Here are some ideas to get you started:
+We make tech education **accessible, interactive, and actually fun**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quick Links
+- **[My Personal Portfolio](https://dr-ankurcodes.github.io)** → projects, tech stack & my developer duality
+- **[YouTube → @dr.ankurcodes](https://www.youtube.com/@dr.ankurcodes)**
+- **[Join WhatsApp Community](https://chat.whatsapp.com/B5Qxor6eG1j4SXjv3bBWOG)**
+- **[Discord](https://discord.com/users/dr.ankurcodes)**
+- **[GitHub](https://github.com/dr-ankurcodes)**
+
+---
+
+**#CodeWithDrAnkur**  
+Let’s build the future of tech education together.
